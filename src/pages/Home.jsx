@@ -61,7 +61,7 @@ const Home = () => {
     },
     {
       icon: <FaTwitter />,
-      url: "#",
+      url: "https://x.com/riskimeji",
     },
   ];
   const projectList = [
